@@ -10,7 +10,7 @@ In sequential pattern mining (SPM), three-way SPM aims to reduce redundant patte
 
 #### Algorithms:
 
-[FNP-Miner and all competitive algorithms](https://github.com/rongzhi2/FNP-Miner/Algorithms)
+[FNP-Miner and all competitive algorithms](https://github.com/rongzhi2/FNP-Miner/tree/main/Algorithms)
 
 #### Databases:
-[Databases](https://github.com/rongzhi2/FNP-Miner/Databases) 
+[Databases](https://github.com/rongzhi2/FNP-Miner/tree/main/Databases) 
